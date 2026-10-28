@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Hammad Shakoor monogram artwork">
+<defs><radialGradient id="g"><stop offset="0" stop-color="#302717"/><stop offset="1" stop-color="#101010"/></radialGradient></defs>
+<rect width="600" height="900" fill="url(#g)"/>
+<circle cx="300" cy="380" r="190" fill="none" stroke="#dcae48" stroke-opacity=".25"/>
+<circle cx="300" cy="380" r="145" fill="none" stroke="#dcae48" stroke-opacity=".45"/>
+<path d="M180 490V270h44l76 117 76-117h44v220h-50V350l-70 105-70-105v140z" fill="#dcae48"/>
+<text x="300" y="615" text-anchor="middle" fill="#f3f0e8" font-family="Arial,sans-serif" font-size="25" letter-spacing="6">HAMMAD SHAKOOR</text>
+<text x="300" y="660" text-anchor="middle" fill="#aaa" font-family="Arial,sans-serif" font-size="12" letter-spacing="4">DESIGN · SEO · DIGITAL</text>
+</svg>
